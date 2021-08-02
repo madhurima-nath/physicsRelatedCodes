@@ -7,4 +7,5 @@
 
 
 ** Note: Mathematical physics and Quantum Mechanics topics will be populated as these courses are taught. 
+
 Currently, these are empty.
