@@ -1,4 +1,4 @@
-## Statistical Physics - Semester 
+## Statistical Physics Course
 The following topics are covered in this course.
 
 ### Distribution Functions
